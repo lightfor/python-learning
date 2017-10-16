@@ -1,0 +1,12 @@
+print("1+1=", 1+1)
+print("2-1=", 2-1)
+print("2*3=", 2*3)
+print("4/2=", 4/2)
+print("1/2=", 1/2)
+print("1/2=", 1.0/2)
+print("3%2=", 3%2)
+print("2**3=", 2**3)
+
+print(True and True)
+print(True or False)
+print(not True)
