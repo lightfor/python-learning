@@ -1,0 +1,10 @@
+list_f = ["apple", "banana", "grape", "orange"]
+print(list_f)
+print(list_f[2])
+list_f.append("watermelon")
+list_f.insert(1, "grapefruit")
+print(list_f)
+list_f.remove("grape")
+print(list_f)
+print(list_f.pop())
+print(list_f)
