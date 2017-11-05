@@ -9,3 +9,8 @@ result = {
     "*" : x*y
 }
 print(result.get(operator))
+for x in result:
+    print("%s=" %x, result[x])
+print(result.items())
+print(result.keys())
+print(result.values())
